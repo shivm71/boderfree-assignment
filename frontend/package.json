@@ -37,6 +37,6 @@
     ]
   },
   "devDependencies": {
-    "aws-amplify": "^3.0.18"
+    "aws-amplify": "^6.16.2"
   }
 }
